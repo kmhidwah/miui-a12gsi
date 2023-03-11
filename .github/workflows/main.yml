@@ -13,8 +13,8 @@ on:
   workflow_dispatch
     
 env:
-  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/16s_Pro/8.1.8.0/cn/20220925143029/569ef7f6/update.zip
-  ROM_NAME: Generic
+  ROM_URL: https://c3iuih2l4ntv0bg97inmdfmbeaaibebksocmph2nf8c4jqg1f9evujt6.qc.dolfincdnx.net:32835/xdispatch78e6108778f0523d/bigota.d.miui.com/22.10.26/miui_PSYCHEPRE_22.10.26_41ed645005_12.0.zip?bsreqid=38b5289a728b18d654765d51c91e4eee&coldbiz=1&bsxdisp=se
+  ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
